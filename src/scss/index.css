@@ -1,0 +1,22 @@
+.header-navigation{
+    background: salmon;    
+}
+
+.header-navigation__wrapper{
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.header-navigation__logo-img{
+    background-color: blueviolet;
+    width: 116px;
+    height: 103px;
+}
+
+.header-navigation__link{
+    font-size: 20px;
+    text-decoration: none;
+
+}
